@@ -1,0 +1,80 @@
+{
+    "MUL": {
+        "mode": "val",
+        "epoch": 21,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.2519,
+        "bbox_mAP_50": 0.5717,
+        "bbox_mAP_75": 0.1251,
+        "bbox_mAP_s": 0.1971,
+        "bbox_mAP_m": 0.7526,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.2519 0.5717 0.1251 0.1971 0.7526 -1.0000"
+    },
+    "ADD": {
+        "mode": "val",
+        "epoch": 17,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.2116,
+        "bbox_mAP_50": 0.5799,
+        "bbox_mAP_75": 0.1046,
+        "bbox_mAP_s": 0.1643,
+        "bbox_mAP_m": 0.7591,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.2116 0.5799 0.1046 0.1643 0.7591 -1.0000"
+    },
+    "RGB": {
+        "mode": "val",
+        "epoch": 1,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.154,
+        "bbox_mAP_50": 0.3949,
+        "bbox_mAP_75": 0.0564,
+        "bbox_mAP_s": 0.1332,
+        "bbox_mAP_m": 0.4007,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.1540 0.3949 0.0564 0.1332 0.4007 -1.0000"
+    },
+    "THERMAL": {
+        "mode": "val",
+        "epoch": 18,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.2148,
+        "bbox_mAP_50": 0.617,
+        "bbox_mAP_75": 0.0885,
+        "bbox_mAP_s": 0.166,
+        "bbox_mAP_m": 0.7537,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.2148 0.6170 0.0885 0.1660 0.7537 -1.0000"
+    },
+    "MFB": {
+        "mode": "val",
+        "epoch": 2,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.1691,
+        "bbox_mAP_50": 0.4998,
+        "bbox_mAP_75": 0.1226,
+        "bbox_mAP_s": 0.0941,
+        "bbox_mAP_m": 0.5753,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.1691 0.4998 0.1226 0.0941 0.5753 -1.0000"
+    },
+    "BGF": {
+        "mode": "val",
+        "epoch": 23,
+        "iter": 406,
+        "lr": 0.0002,
+        "bbox_mAP": 0.2644,
+        "bbox_mAP_50": 0.638,
+        "bbox_mAP_75": 0.1661,
+        "bbox_mAP_s": 0.1671,
+        "bbox_mAP_m": 0.7225,
+        "bbox_mAP_l": -1.0,
+        "bbox_mAP_copypaste": "0.2644 0.6380 0.1661 0.1671 0.7225 -1.0000"
+    }
+}
